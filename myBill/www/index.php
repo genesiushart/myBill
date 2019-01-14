@@ -16,7 +16,7 @@ $db = new database();
 
 <div class="container">
     <h3>My Bill</h3>
-    <a href="input.php">
+    <a href="add.php">
         <button>Add Bill</button>
     </a>
     <table class="table table-striped">
